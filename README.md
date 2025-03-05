@@ -1,3 +1,8 @@
+
+Author: Amit Choudhary<br>
+Email: amitchoudhary0523 AT gmail DOT com<br>
+<br>
+<br>
 **C++ has a big flaw. You can change the values of the private member variables directly by getting the pointer to the object. So, private member variables are actually not private, they are public. Below is the example code:**
 ```
 
